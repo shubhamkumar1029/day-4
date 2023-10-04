@@ -1,0 +1,9 @@
+.ttbody{
+    background-color:yellow;
+}
+.homebody{
+    background-image: url(bg.jpg);
+}
+h1{
+    text-align: center;
+}
